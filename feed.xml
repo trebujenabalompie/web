@@ -1,21 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>T B</title>
-    <link href="https://trebujenabalompie.github.io/web/feed.xml" rel="self" />
-    <link href="https://trebujenabalompie.github.io/web" />
-    <updated>2023-05-25T13:26:14+02:00</updated>
+    <title>Trebujena Balompie</title>
+    <link href="https://trebujenabalompie.club/feed.xml" rel="self" />
+    <link href="https://trebujenabalompie.club" />
+    <updated>2023-05-31T10:08:56+02:00</updated>
     <author>
         <name>T B</name>
     </author>
-    <id>https://trebujenabalompie.github.io/web</id>
+    <id>https://trebujenabalompie.club</id>
 
+    <entry>
+        <title>Bla bla 2</title>
+        <author>
+            <name>T B</name>
+        </author>
+        <link href="https://trebujenabalompie.club/bla-bla-2.html"/>
+        <id>https://trebujenabalompie.club/bla-bla-2.html</id>
+
+        <updated>2023-05-31T10:08:56+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Bla bla bla 2
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Bla <span style="color: #000000;">bla</span> bla 2</p>
+<figure class="post__image"><img loading="lazy"  src="https://trebujenabalompie.club/media/posts/2/logo-trebujenabalompie-fuera-azul.png" alt="" width="720" height="720" sizes="100vw" srcset="https://trebujenabalompie.club/media/posts/2/responsive/logo-trebujenabalompie-fuera-azul-xs.png 300w ,https://trebujenabalompie.club/media/posts/2/responsive/logo-trebujenabalompie-fuera-azul-sm.png 480w ,https://trebujenabalompie.club/media/posts/2/responsive/logo-trebujenabalompie-fuera-azul-md.png 768w ,https://trebujenabalompie.club/media/posts/2/responsive/logo-trebujenabalompie-fuera-azul-lg.png 1024w ,https://trebujenabalompie.club/media/posts/2/responsive/logo-trebujenabalompie-fuera-azul-xl.png 1360w ,https://trebujenabalompie.club/media/posts/2/responsive/logo-trebujenabalompie-fuera-azul-2xl.png 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Bla bla</title>
         <author>
             <name>T B</name>
         </author>
-        <link href="https://trebujenabalompie.github.io/web/bla-bla.html"/>
-        <id>https://trebujenabalompie.github.io/web/bla-bla.html</id>
+        <link href="https://trebujenabalompie.club/bla-bla.html"/>
+        <id>https://trebujenabalompie.club/bla-bla.html</id>
 
         <updated>2023-05-25T13:26:14+02:00</updated>
             <summary>
