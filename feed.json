@@ -5,9 +5,9 @@
     "home_page_url": "https://trebujenabalompie.club",
     "feed_url": "https://trebujenabalompie.club/feed.json",
     "user_comment": "",
-    "icon": "https://trebujenabalompie.club/media/website/logo-trebujenabalompie-fuera-trans.png",
+    "icon": "https://trebujenabalompie.club/media/website/logo-trebujenabalompie-fuera-trans-borde-azul.png",
     "author": {
-        "name": "T B"
+        "name": "Trebujena Balompié"
     },
     "items": [
         {
@@ -18,7 +18,7 @@
             "content_html": "<p>Bla bla bla 3</p>\n",
             "image": "https://trebujenabalompie.club/media/posts/3/cabezera1.png",
             "author": {
-                "name": "T B"
+                "name": "Trebujena Balompié"
             },
             "tags": [
             ],
@@ -32,7 +32,7 @@
             "summary": "Bla bla bla 2",
             "content_html": "<p>Bla <span style=\"color: #000000;\">bla</span> bla 2</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://trebujenabalompie.club/media/posts/2/logo-trebujenabalompie-fuera-azul.png\" alt=\"\" width=\"720\" height=\"720\" sizes=\"100vw\" srcset=\"https://trebujenabalompie.club/media/posts/2/responsive/logo-trebujenabalompie-fuera-azul-xs.png 300w ,https://trebujenabalompie.club/media/posts/2/responsive/logo-trebujenabalompie-fuera-azul-sm.png 480w ,https://trebujenabalompie.club/media/posts/2/responsive/logo-trebujenabalompie-fuera-azul-md.png 768w ,https://trebujenabalompie.club/media/posts/2/responsive/logo-trebujenabalompie-fuera-azul-lg.png 1024w ,https://trebujenabalompie.club/media/posts/2/responsive/logo-trebujenabalompie-fuera-azul-xl.png 1360w ,https://trebujenabalompie.club/media/posts/2/responsive/logo-trebujenabalompie-fuera-azul-2xl.png 1600w\"></figure>",
             "author": {
-                "name": "T B"
+                "name": "Trebujena Balompié"
             },
             "tags": [
             ],
@@ -46,7 +46,7 @@
             "summary": "Bla bla bla bla",
             "content_html": "<p>Bla <strong>bla bla </strong>bla </p>\n<p> </p>",
             "author": {
-                "name": "T B"
+                "name": "Trebujena Balompié"
             },
             "tags": [
             ],
