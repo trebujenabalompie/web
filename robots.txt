@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://trebujenabalompie.github.io/web/sitemap.xml

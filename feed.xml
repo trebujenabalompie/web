@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>T B</title>
+    <link href="https://trebujenabalompie.github.io/web/feed.xml" rel="self" />
+    <link href="https://trebujenabalompie.github.io/web" />
+    <updated>2023-05-25T13:26:14+02:00</updated>
+    <author>
+        <name>T B</name>
+    </author>
+    <id>https://trebujenabalompie.github.io/web</id>
+
+    <entry>
+        <title>Bla bla</title>
+        <author>
+            <name>T B</name>
+        </author>
+        <link href="https://trebujenabalompie.github.io/web/bla-bla.html"/>
+        <id>https://trebujenabalompie.github.io/web/bla-bla.html</id>
+
+        <updated>2023-05-25T13:26:14+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Bla bla bla bla
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Bla <strong>bla bla </strong>bla </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
