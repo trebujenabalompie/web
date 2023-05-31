@@ -5,7 +5,11 @@
 <loc>https://trebujenabalompie.club/</loc>
 </url>
 <url>
-<loc>https://trebujenabalompie.club/bla-bla-2.html</loc>
+<loc>https://trebujenabalompie.club/bla-bla/</loc>
+<lastmod>2023-05-25T13:26:14+02:00</lastmod>
+</url>
+<url>
+<loc>https://trebujenabalompie.club/bla-bla-2/</loc>
 <lastmod>2023-05-31T10:08:56+02:00</lastmod>
 <image:image>
 <image:loc>https://trebujenabalompie.club/media/posts/2/logo-trebujenabalompie-fuera-azul.png</image:loc>
@@ -13,7 +17,11 @@
 </image:image>
 </url>
 <url>
-<loc>https://trebujenabalompie.club/bla-bla.html</loc>
-<lastmod>2023-05-25T13:26:14+02:00</lastmod>
+<loc>https://trebujenabalompie.club/bla-bla-bla-3/</loc>
+<lastmod>2023-05-31T10:52:47+02:00</lastmod>
+<image:image>
+<image:loc>https://trebujenabalompie.club/media/posts/3/cabezera1.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 </urlset>

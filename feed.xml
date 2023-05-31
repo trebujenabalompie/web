@@ -3,19 +3,43 @@
     <title>Trebujena Balompie</title>
     <link href="https://trebujenabalompie.club/feed.xml" rel="self" />
     <link href="https://trebujenabalompie.club" />
-    <updated>2023-05-31T10:08:56+02:00</updated>
+    <updated>2023-05-31T10:52:47+02:00</updated>
     <author>
         <name>T B</name>
     </author>
     <id>https://trebujenabalompie.club</id>
 
     <entry>
+        <title>Bla bla bla 3</title>
+        <author>
+            <name>T B</name>
+        </author>
+        <link href="https://trebujenabalompie.club/bla-bla-bla-3/"/>
+        <id>https://trebujenabalompie.club/bla-bla-bla-3/</id>
+        <media:content url="https://trebujenabalompie.club/media/posts/3/cabezera1.png" medium="image" />
+
+        <updated>2023-05-31T10:52:47+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://trebujenabalompie.club/media/posts/3/cabezera1.png" alt="" />
+                    Bla bla bla 3
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://trebujenabalompie.club/media/posts/3/cabezera1.png" class="type:primaryImage" alt="" /></p>
+                <p>Bla bla bla 3</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Bla bla 2</title>
         <author>
             <name>T B</name>
         </author>
-        <link href="https://trebujenabalompie.club/bla-bla-2.html"/>
-        <id>https://trebujenabalompie.club/bla-bla-2.html</id>
+        <link href="https://trebujenabalompie.club/bla-bla-2/"/>
+        <id>https://trebujenabalompie.club/bla-bla-2/</id>
 
         <updated>2023-05-31T10:08:56+02:00</updated>
             <summary>
@@ -35,8 +59,8 @@
         <author>
             <name>T B</name>
         </author>
-        <link href="https://trebujenabalompie.club/bla-bla.html"/>
-        <id>https://trebujenabalompie.club/bla-bla.html</id>
+        <link href="https://trebujenabalompie.club/bla-bla/"/>
+        <id>https://trebujenabalompie.club/bla-bla/</id>
 
         <updated>2023-05-25T13:26:14+02:00</updated>
             <summary>
