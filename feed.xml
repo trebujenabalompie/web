@@ -3,75 +3,29 @@
     <title>Trebujena Balompie</title>
     <link href="https://trebujenabalompie.club/feed.xml" rel="self" />
     <link href="https://trebujenabalompie.club" />
-    <updated>2023-05-31T10:52:47+02:00</updated>
+    <updated>2023-06-02T14:01:15+02:00</updated>
     <author>
         <name>Trebujena Balompié</name>
     </author>
     <id>https://trebujenabalompie.club</id>
 
     <entry>
-        <title>Bla bla bla 3</title>
+        <title>Formulario Captación Fútbol Senior Masculino </title>
         <author>
             <name>Trebujena Balompié</name>
         </author>
-        <link href="https://trebujenabalompie.club/bla-bla-bla-3/"/>
-        <id>https://trebujenabalompie.club/bla-bla-bla-3/</id>
-        <media:content url="https://trebujenabalompie.club/media/posts/3/cabezera1.png" medium="image" />
+        <link href="https://trebujenabalompie.club/formulario-captacion-futbol-senior-masculino/"/>
+        <id>https://trebujenabalompie.club/formulario-captacion-futbol-senior-masculino/</id>
 
-        <updated>2023-05-31T10:52:47+02:00</updated>
+        <updated>2023-06-02T14:01:15+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://trebujenabalompie.club/media/posts/3/cabezera1.png" alt="" />
-                    Bla bla bla 3
+                    Cargando…
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://trebujenabalompie.club/media/posts/3/cabezera1.png" class="type:primaryImage" alt="" /></p>
-                <p>Bla bla bla 3</p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Bla bla 2</title>
-        <author>
-            <name>Trebujena Balompié</name>
-        </author>
-        <link href="https://trebujenabalompie.club/bla-bla-2/"/>
-        <id>https://trebujenabalompie.club/bla-bla-2/</id>
-
-        <updated>2023-05-31T10:08:56+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Bla bla bla 2
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Bla <span style="color: #000000;">bla</span> bla 2</p>
-<figure class="post__image"><img loading="lazy"  src="https://trebujenabalompie.club/media/posts/2/logo-trebujenabalompie-fuera-azul.png" alt="" width="720" height="720" sizes="100vw" srcset="https://trebujenabalompie.club/media/posts/2/responsive/logo-trebujenabalompie-fuera-azul-xs.png 300w ,https://trebujenabalompie.club/media/posts/2/responsive/logo-trebujenabalompie-fuera-azul-sm.png 480w ,https://trebujenabalompie.club/media/posts/2/responsive/logo-trebujenabalompie-fuera-azul-md.png 768w ,https://trebujenabalompie.club/media/posts/2/responsive/logo-trebujenabalompie-fuera-azul-lg.png 1024w ,https://trebujenabalompie.club/media/posts/2/responsive/logo-trebujenabalompie-fuera-azul-xl.png 1360w ,https://trebujenabalompie.club/media/posts/2/responsive/logo-trebujenabalompie-fuera-azul-2xl.png 1600w"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Bla bla</title>
-        <author>
-            <name>Trebujena Balompié</name>
-        </author>
-        <link href="https://trebujenabalompie.club/bla-bla/"/>
-        <id>https://trebujenabalompie.club/bla-bla/</id>
-
-        <updated>2023-05-25T13:26:14+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Bla bla bla bla
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Bla <strong>bla bla </strong>bla </p>
-<p> </p>
+                <div class="post__iframe"><iframe loading="lazy" width="640" height="1576" src="https://docs.google.com/forms/d/e/1FAIpQLSfFCNR3Xd927bWhRqXoj44RtbGrIAnWCN7PH_AdpcrQQkGbZQ/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe></div>
             ]]>
         </content>
     </entry>
